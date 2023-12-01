@@ -1,0 +1,178 @@
+[
+    {
+        "fecha": "2012-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 5.00
+    },
+    {
+        "fecha": "2013-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 5
+    },
+    {
+        "fecha": "2014-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 6
+    },
+    {
+        "fecha": "2015-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 6.2
+    },
+    {
+        "fecha": "2016-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 6.5
+    },
+    {
+        "fecha": "2017-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 6.5
+    },
+    {
+        "fecha": "2018-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 6.5
+    },
+    {
+        "fecha": "2019-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 7
+    },
+    {
+        "fecha": "2020-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 7
+    },
+    {
+        "fecha": "2021-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 8
+    },
+    {
+        "fecha": "2022-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 8
+    },
+    {
+        "fecha": "2023-01-10",
+        "producto": "Coca Cola 2l",
+        "precio": 8
+    },
+    {
+        "fecha": "2013-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 2.5
+    },
+    {
+        "fecha": "2014-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 2.5
+    },
+    {
+        "fecha": "2015-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 2.5
+    },
+    {
+        "fecha": "2016-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 3
+    },
+    {
+        "fecha": "2017-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 3
+    },
+    {
+        "fecha": "2018-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 3
+    },
+    {
+        "fecha": "2019-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 3
+    },
+    {
+        "fecha": "2020-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 4
+    },
+    {
+        "fecha": "2021-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 4
+    },
+    {
+        "fecha": "2022-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 4
+    },
+    {
+        "fecha": "2023-01-10",
+        "producto": "Coca Cola 500 ml",
+        "precio": 4
+    },
+    {
+        "fecha": "2012-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 10.5
+    },
+    {
+        "fecha": "2013-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 10.5
+    },
+    {
+        "fecha": "2014-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 12.5
+    },
+    {
+        "fecha": "2015-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 12.5
+    },
+    {
+        "fecha": "2016-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 13
+    },
+    {
+        "fecha": "2017-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 13
+    },
+    {
+        "fecha": "2018-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 13
+    },
+    {
+        "fecha": "2019-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 13
+    },
+    {
+        "fecha": "2020-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 14
+    },
+    {
+        "fecha": "2021-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 14
+    },
+    {
+        "fecha": "2022-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 12
+    },
+    {
+        "fecha": "2023-01-10",
+        "producto": "Coca Cola 3l",
+        "precio": 12
+    }
+]
+
